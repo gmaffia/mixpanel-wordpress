@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: MixPanel for WordPress 
+Plugin Name: Monaeo MixPanel for WordPress
 Plugin URI: https://github.com/monaeo/mixpanel-wordpress
 Description: A relatively easy way to integrate MixPanel with your WordPress site (forked by Monaeo)
-Author: Vid Luther <code@pressable.com>
+Author: Monaeo <dev@monaeo.com>
 Version: 0.4
-Author URI: http://pressable.com/
+Author URI: http://monaeo.com/
 */
 
 // if( is_admin() ){
@@ -14,7 +14,7 @@ Author URI: http://pressable.com/
 //   require_once dirname( __FILE__ ) . '/page.php';
 // }
 
-namespace mixpanel; 
+namespace mixpanel;
 
 class mixPanel {
 	

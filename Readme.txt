@@ -1,5 +1,5 @@
 === MixPanel  ===
-Contributors: pressable
+Contributors: monaeo, pressable
 Tags: analytics, funnels
 Requires at least: 3.3
 Tested up to: 3.8RC2
@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is a plugin that allows you to get MixPanel analytics up and running on WordPress very easily.  
+This is Monaeo's fork of the Mixpanel WordPress. We've added custom features to allow contact forms to integrate with MixPanel.
 
 == Description ==
 
